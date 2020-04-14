@@ -1,0 +1,11 @@
+C:\Users\ranoh\source\repos\Pinterest Project\Pinterest Project\bin\Debug\Pinterest Project.exe.config
+C:\Users\ranoh\source\repos\Pinterest Project\Pinterest Project\bin\Debug\Pinterest Project.exe
+C:\Users\ranoh\source\repos\Pinterest Project\Pinterest Project\bin\Debug\Pinterest Project.pdb
+C:\Users\ranoh\source\repos\Pinterest Project\Pinterest Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\ranoh\source\repos\Pinterest Project\Pinterest Project\obj\Debug\Pinterest_Project.Log_sign.resources
+C:\Users\ranoh\source\repos\Pinterest Project\Pinterest Project\obj\Debug\Pinterest_Project.Profile.resources
+C:\Users\ranoh\source\repos\Pinterest Project\Pinterest Project\obj\Debug\Pinterest_Project.Properties.Resources.resources
+C:\Users\ranoh\source\repos\Pinterest Project\Pinterest Project\obj\Debug\Pinterest Project.csproj.GenerateResource.cache
+C:\Users\ranoh\source\repos\Pinterest Project\Pinterest Project\obj\Debug\Pinterest Project.csproj.CopyComplete
+C:\Users\ranoh\source\repos\Pinterest Project\Pinterest Project\obj\Debug\Pinterest Project.exe
+C:\Users\ranoh\source\repos\Pinterest Project\Pinterest Project\obj\Debug\Pinterest Project.pdb
